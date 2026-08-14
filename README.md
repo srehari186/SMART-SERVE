@@ -66,38 +66,7 @@ The dashboard is built on a daily canteen dataset with the following fields:
 - **DAX** — KPI measures, rolling averages, and forecast logic
 - **Built-in Power BI Analytics forecasting** (exponential smoothing) for the trend projection
 
-See [`docs/PowerBI_Build_Guide.md`](docs/PowerBI_Build_Guide.md) for the full data model, Power Query steps, and DAX measures used to build this from scratch.
 
----
-
-## 📁 Repository Structure
-
-```
-canteen-waste-forecasting/
-├── README.md
-├── data/
-│   └── canteen_food_waste_sample.csv
-├── powerbi/
-│   └── Canteen_Waste_Forecasting.pbix
-├── docs/
-│   └── PowerBI_Build_Guide.md
-└── assets/
-    └── dashboard_preview.png
-```
-
----
-
-## 🚀 Getting Started
-
-1. Clone this repository.
-2. Open `powerbi/Canteen_Waste_Forecasting.pbix` in **Power BI Desktop**.
-3. If prompted, update the data source path to point to `data/canteen_food_waste_sample.csv`.
-4. Refresh the data model (**Home → Refresh**).
-5. Explore the dashboard using the Month and Meal Type slicers.
-
-To rebuild the dashboard from scratch (data model, DAX measures, forecasting logic), follow [`docs/PowerBI_Build_Guide.md`](docs/PowerBI_Build_Guide.md).
-
----
 
 ## 📈 Forecasting Approach
 
