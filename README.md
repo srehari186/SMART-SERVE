@@ -80,6 +80,3 @@ Contributions are welcome — feel free to open an issue or submit a pull reques
 
 ---
 
-## 📄 License
-
-This project is available under the [MIT License](LICENSE).
