@@ -2,11 +2,8 @@
 
 An interactive **Power BI dashboard** for tracking, analyzing, and forecasting food waste in a canteen/cafeteria setting — built to help operations teams reduce over-preparation, cut costs, and plan smarter.
 
-![Dashboard Preview](assets/dashboard_preview.png)
 
-> **Track | Analyze | Forecast | Reduce Food Waste**
 
----
 
 ## 📊 Overview
 
